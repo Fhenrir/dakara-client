@@ -2,7 +2,7 @@
 
 Dakara Online is a HTML5/Javascript MMORPG.
 
-### [Play it now.](http://fhenrir.github.io/dakara-client/)
+### [Play it now.](http://fhenrir.github.io/dakara-web-client/)
 
 [Server code.](https://github.com/fhenrir/dakara-server)
 
@@ -37,7 +37,7 @@ This content is released under the (http://opensource.org/licenses/MIT) MIT Lice
 
 # Dakara-client (Español)
 
-### [Jugar.](http://fhenrir.github.io/dakara-client/)
+### [Jugar.](http://fhenrir.github.io/dakara-web-client/)
 
 Cliente web del MMORPG Argentum Online, escrito desde cero en Javascript.
 
