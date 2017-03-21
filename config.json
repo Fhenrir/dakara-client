@@ -1,5 +1,5 @@
 {
 	"version":"0.13.0",
-	"ip":"fhenrir-client.freedynamicdns.net",
-	"port":"8080"
+	"ip":"localhost",
+	"port":"80"
 }
